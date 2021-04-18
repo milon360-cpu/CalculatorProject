@@ -1,0 +1,63 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+  
+}
+h1{
+    margin-top: 2%;
+    color: white;
+}
+.container
+{
+    height: 600px;
+    max-width: 410px;
+    margin: 0px auto;
+    background-color: teal;
+    text-align: center;
+    margin-top: 2%;
+    padding: 5px;
+    border-radius: 30px;
+    box-shadow:2px 5px 20px  gray;
+  
+}
+.cla-header #header-input
+{
+    margin-top: 6%;
+    height: 80px;
+    width: 100%;
+    border: none;
+    outline: none;
+    font-size: 25px;
+    font-weight: bold;
+    /* text-align: right; */
+    border-radius: 20px;
+    padding-left: 20px;
+
+}
+.btn
+{
+    height: 80px;
+    width: 80px;
+    border-radius: 20px;
+    outline: none;
+    border: 1px solid green;
+    font-size: 30px;
+    font-weight: 700px;
+    cursor: pointer;
+}
+.cal-body
+{
+    margin-top: 4%;
+    font-size: 0px;
+}
+.style-btn
+{
+    background-color: rgb(23, 228, 132);
+}
+.btn:hover
+{
+   background-color: tomato !important;
+   color: white;
+}
